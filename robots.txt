@@ -1,5 +1,7 @@
 User-agent: *
-Disallow: /cdn-cgi/l/email-protection
-Allow: /
+Allow: /services/
+Allow: /locations/
+Disallow: /cdn-cgi/
+Disallow: /backups/
 
 Sitemap: https://civil-construction-oman.alwejhagroup.com/sitemap.xml
